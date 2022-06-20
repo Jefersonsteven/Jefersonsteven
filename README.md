@@ -29,5 +29,3 @@
 &nbsp; <a href="https://www.linkedin.com/in/jeffersonsteven/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://jeffersonsteven.com/#contact" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-⭐️ From [Jefferson][https://github.com/Jefersonsteven]
