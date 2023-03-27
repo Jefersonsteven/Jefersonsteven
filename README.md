@@ -34,8 +34,4 @@
 
 ### 📊 My Stats :
 
-[![Jeffer GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jefersonsteven&theme=onedark)](https://git.io/streak-stats)
-
-![Jeffer GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefersonsteven&show_icons=true&theme=midnight-purple)
-
 [![Jeffer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonsteven&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
