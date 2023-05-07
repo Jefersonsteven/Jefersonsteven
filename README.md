@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📫 How to reach me **jeffersonstevenx@gmail.com**
+- 📫 How to reach me **dev@jeffersonsteven.com**
 
 - 🌱 I’m currently learning **React.js, python and UI Design**
 
