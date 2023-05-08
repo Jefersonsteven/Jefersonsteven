@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js, python and UI Design**
 
-- 🌐 Website [jeffersonsteven.com](jeffersonsteven.com)
+- 🌐 Website [www.jeffersonsteven.com](https://jeffersonsteven.com/)
 
 
 <div align="left">
