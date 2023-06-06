@@ -1,7 +1,6 @@
-![https://ibb.co/Q9hzqGR](https://i.ibb.co/hsrhnvj/Mesa-de-trabajo-1.png)
-
-<p><img align="left" src="https://github-stats-alpha.vercel.app/api?username=jefersonsteven&cc=000&tc=fff&ic=fff&bc=000" alt="jefersonsteven" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefersonsteven&label=Profile%20views&color=0e75b6&style=flat" alt="jefersonsteven" /> </p>
+![https://ibb.co/Q9hzqGR](https://i.ibb.co/hsrhnvj/Mesa-de-trabajo-1.png)
+<p><img align="left" src="https://github-stats-alpha.vercel.app/api?username=jefersonsteven&cc=000&tc=fff&ic=fff&bc=000" alt="jefersonsteven" /></p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Jefersonsteven/portfolio)
 
