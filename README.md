@@ -1,4 +1,4 @@
-![https://ibb.co/Q9hzqGR](https://i.ibb.co/hsrhnvj/Mesa-de-trabajo-1.png)
+![https://ibb.co/Q9hzqGR](https://i.ibb.co/hWw37q3/Banner-Github.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefersonsteven&label=Profile%20views&color=0e75b6&style=flat" alt="jefersonsteven" /> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Jefersonsteven/portfolio)
