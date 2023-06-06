@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://jeffersonsteven.com/](https://jeffersonsteven.com/)
 
 - 💬 Ask me about **react, next.js and css**
-- 
+ 
 - 📫 How to reach me **dev@jeffersonsteven.com**
 
 <h3 align="left">Connect with me:</h3>
