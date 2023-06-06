@@ -7,12 +7,10 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Jefersonsteven/portfolio)
 
-- 👯 I’m looking to collaborate on [Tools Match](https://github.com/Jefersonsteven/tools-match)
-
 - 👨‍💻 All of my projects are available at [https://jeffersonsteven.com/](https://jeffersonsteven.com/)
 
 - 💬 Ask me about **react, next.js and css**
-
+- 
 - 📫 How to reach me **dev@jeffersonsteven.com**
 
 <h3 align="left">Connect with me:</h3>
