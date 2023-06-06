@@ -1,6 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefersonsteven&label=Profile%20views&color=0e75b6&style=flat" alt="jefersonsteven" /> </p>
 ![https://ibb.co/Q9hzqGR](https://i.ibb.co/hsrhnvj/Mesa-de-trabajo-1.png)
-<p><img align="left" src="https://github-stats-alpha.vercel.app/api?username=jefersonsteven&cc=000&tc=fff&ic=fff&bc=000" alt="jefersonsteven" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefersonsteven&label=Profile%20views&color=0e75b6&style=flat" alt="jefersonsteven" /> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Jefersonsteven/portfolio)
 
@@ -16,6 +15,8 @@
 <a href="https://linkedin.com/in/jeffersonsteven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffersonsteven" height="30" width="40" /></a>
 <a href="https://instagram.com/jefersonseteven_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jefersonseteven_" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-stats-alpha.vercel.app/api?username=jefersonsteven&cc=000&tc=fff&ic=fff&bc=000" alt="jefersonsteven" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
