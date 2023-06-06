@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dev@jeffersonsteven.com**
 
-- 🌱 I’m currently learning **React.js, python and UI Design**
+- 🌱 I’m currently learning **Next.js and English**
 
 - 🌐 Website [www.jeffersonsteven.com](https://jeffersonsteven.com/)
 
