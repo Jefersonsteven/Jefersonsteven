@@ -1,4 +1,4 @@
-![github-readme-profile](https://ibb.co/Q9hzqGR)
+![github-readme-profile]([https://ibb.co/Q9hzqGR](https://i.ibb.co/hsrhnvj/Mesa-de-trabajo-1.png))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefersonsteven&label=Profile%20views&color=0e75b6&style=flat" alt="jefersonsteven" /> </p>
 
