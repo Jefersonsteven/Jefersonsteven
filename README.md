@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Jefersonsteven/portfolio)
 
-- 👨‍💻 All of my projects are available at [https://jeffersonsteven.com/](https://jeffersonsteven.com/)
+- 👨‍💻 All of my projects are available at [https://jeffersonsteven.com/](https://jeffersonsteven.com/) 
 
 - 💬 Ask me about **react, next.js and css**
  
