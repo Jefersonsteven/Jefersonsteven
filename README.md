@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, next.js and css**
  
-- 📫 How to reach me **dev@jeffersonsteven.com**
+- 📫 How to reach me **jeffersonstevenx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
